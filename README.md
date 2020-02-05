@@ -1,6 +1,6 @@
-## Streaming Web Application using React/Redux/OBS
+## Streaming Web Application using React/Redux/OBS (Open Broadcaster Software)
 
-Stream Web Application
+Streaming Web Application
 
 ### Description
 
@@ -11,10 +11,25 @@ Creating Web streaming service that allows users basic CRUD operations to create
 - User Sign Up/Sign In with Google OAuth
 - User Create, Edit, Update, and Delete Streams
 - Global state management using React/Redux
-- Ability to stream using OBS services in REAL TIME
+- Ability to stream using OBS (Open Broadcaster Software) services in REAL TIME
+- Basic styling using Semantic-UI CSS library
 
 ### How To Run
 
 After git cloning and npm install in both server/client, cd to server and run command `npm run dev`
 
-Last updated 02/05/2020
+### Folder Structure
+```
+    client/
+        public/
+            index.html
+        src/
+            actions/
+            api/
+            components/
+            reducers/
+            index.js
+    server/
+        db.json
+
+```
