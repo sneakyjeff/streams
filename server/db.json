@@ -1,0 +1,60 @@
+{
+  "streams": [
+    {
+      "title": "gfdsgdf",
+      "description": "gfdsgfd",
+      "id": 1
+    },
+    {
+      "title": "This is my title",
+      "description": "Sup",
+      "id": 2
+    },
+    {
+      "title": "This is my title",
+      "description": "Sup!",
+      "id": 3
+    },
+    {
+      "title": "This is my title",
+      "description": "Sup!",
+      "id": 4
+    },
+    {
+      "title": "dogs",
+      "description": "dogs",
+      "id": 5
+    },
+    {
+      "title": "sup",
+      "description": "sup",
+      "id": 6
+    },
+    {
+      "title": "lol",
+      "description": "lol",
+      "id": 7
+    },
+    {
+      "title": "dsa",
+      "description": "fdsafd",
+      "id": 8
+    },
+    {
+      "title": "test",
+      "description": "testagain",
+      "id": 9
+    },
+    {
+      "title": "finaltest edit",
+      "description": "finaltest edit",
+      "id": 10
+    },
+    {
+      "title": "new stream",
+      "description": "new stream",
+      "userId": "108142695340320883630",
+      "id": 19
+    }
+  ]
+}
