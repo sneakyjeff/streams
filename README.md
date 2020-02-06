@@ -36,7 +36,18 @@ server/
 ```
 
 ## Sample Flow
+Landing page shows available streams to watch under Stream List and supports ability to Log In/Sign Up from landing page.
+
 ![Alt text](/client/src/images/showcase1.png)
+
+Logged in users see a nav bar vs Guest users and logged in users are able to 'Create' streams
+
 ![Alt text](/client/src/images/showcase2.png)
+
+Users are ability to create a stream using the stream form that has error handling.
+
 ![Alt text](/client/src/images/showcase3.png)
+
+Users are then able to use third party software like OBS and stream to the corresponding URL.
+
 ![Alt text](/client/src/images/showcase4.png)
