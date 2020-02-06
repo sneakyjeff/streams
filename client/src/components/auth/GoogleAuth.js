@@ -52,7 +52,7 @@ class GoogleAuth extends React.Component {
             return null
         }
         else if(this.props.isSignedIn !== true) {
-            return <button className="ui red google button" onClick={this.onClickLogin}>Log in google</button>
+            return <button className="ui red google button" onClick={this.onClickLogin}>Log In With Google</button>
         }
         return <button className="ui red google button" onClick={this.onClickLogout}>Logout</button>
     }

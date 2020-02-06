@@ -3,12 +3,13 @@ import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 
 import GoogleAuth from '../auth/GoogleAuth';
+import "./NavBarHeader.css";
 
 class NavBarHeader extends React.Component{
     renderSignedInUserNavBar = () => {
         if(this.props.isSignedIn) {
             return(
-                <div className="ui secondary menu">
+                <div className="ui secondary menu navbar-custom">
                     <Link to="/dashboard"><li className="active item">
                         Home
                     </li></Link>

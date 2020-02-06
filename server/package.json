@@ -6,7 +6,8 @@
   "scripts": {
     "start": "json-server -p 3001 -w db.json",
     "client": "cd .. && cd client && npm start",
-    "dev": "npm run client & npm start"
+    "rtmp": "cd .. && cd rtmpserver && npm start",
+    "dev": "npm run client & npm run rtmp & npm start"
   },
   "author": "",
   "license": "ISC",
